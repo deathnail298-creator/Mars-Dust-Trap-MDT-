@@ -1,0 +1,260 @@
+# 03 — Constraint Violations
+Mars Dust Trap (MDT) — Phase 2
+
+MDT as a concept implicitly depends on several environmental, physical, and operational **constraints** being “mostly true.”
+Phase 2 must assume some of those constraints will eventually break.
+
+This file explores:
+- which constraints MDT relies on,
+- what happens when they fail,
+- and whether MDT collapses or adapts.
+
+---
+
+## 1. Constraint Violation Philosophy
+
+Constraint violation analysis is not catastrophe theater.
+It’s a discipline that answers three questions:
+
+1️⃣ What are we assuming MUST remain true?
+2️⃣ What if it doesn’t?
+3️⃣ Does MDT bend or snap?
+
+If MDT only works when the universe behaves politely,
+then it’s not a Mars concept — it’s a lab fantasy.
+
+---
+
+## 2. Environmental Constraint Violations
+
+### Constraint A — “Wind behaves in usable patterns”
+MDT assumes:
+- somewhat predictable flow paths
+- semi-consistent prevailing directions
+- meaningful recurrence of exposure
+
+#### Violation
+Wind direction changes frequently, turbulence dominates, flow becomes chaotic.
+
+#### Impact
+- MDT intercept probability plummets
+- statistical benefit collapses
+- maintenance/placement strategy becomes pointless guesswork
+
+#### Severity: High  
+#### Adaptability: Low
+
+MDT needs *some* pattern coherence to be meaningful.
+If wind behaves like a random number generator, MDT devolves into environmental decoration.
+
+---
+
+### Constraint B — “There is enough airborne dust to matter”
+MDT assumes airborne dust transport meaningfully contributes to operational fouling.
+
+#### Violation
+Dust transport is dominated by near-ground creep or very fine suspended dust that passes straight through MDT behavior envelope.
+
+#### Impact
+- MDT interacts with the wrong transport mode
+- or interacts but physics gives no leverage
+- net benefit becomes negligible
+
+#### Severity: High  
+#### Adaptability: Low
+
+Wrong dust regime = concept misalignment problem, not tuning problem.
+
+---
+
+### Constraint C — “Environmental exposure windows align with MDT”
+MDT assumes opportunities to work occur often enough for cumulative impact.
+
+#### Violation
+Long calm periods + brief chaotic storm spikes define dust movement behavior.
+
+#### Impact
+- MDT idle most of the time
+- MDT destroyed or overwhelmed during major dust events
+- effectiveness window becomes vanishingly small
+
+#### Severity: High  
+#### Adaptability: Low–Moderate
+
+MDT could still help in certain niche placements, but broad value weakens.
+
+---
+
+## 3. Material & Physics Constraint Violations
+
+### Constraint D — “Internal dust buildup stabilizes rather than collapses geometry”
+MDT assumes:
+- internal lining forms
+- stabilizes behavior
+- does not catastrophically choke performance
+
+#### Violation
+Dust:
+- cakes rigidly
+- chokes apertures
+- redirects flow adversely
+- creates bypass vortices that eject dust instead of settling it
+
+#### Impact
+MDT transitions from passive help to structurally useless mass.
+
+#### Severity: Very High  
+#### Adaptability: Unclear
+May require geometry rethink or accepting frequent replacement — both threaten value proposition.
+
+---
+
+### Constraint E — “Abrasion damage accumulates slowly enough to remain useful”
+MDT assumes survivability > uselessness threshold.
+
+#### Violation
+Abrasion happens faster than we planned for:
+- material thins
+- surface texture integrity lost
+- tears propagate
+- geometry collapses
+
+#### Impact
+MTTF becomes too short to justify deployment.
+
+#### Severity: Very High  
+#### Adaptability: Medium
+Heavier fabrics? Reinforcement? That risks turning MDT into heavier, costlier infrastructure — undermining the simplicity doctrine.
+
+---
+
+### Constraint F — “Gravity + turbulence are enough to bias settling”
+MDT logic assumes:
+turbulence + deceleration + residence time + gravity = increased settlement probability.
+
+#### Violation
+Under Mars atmospheric density + gravity:
+- turbulence affects flow but not particle paths meaningfully
+- residence time increase insufficient to produce settling
+- particles simply follow streamlines
+
+#### Impact
+MDT becomes fluid-dynamics theater: looks active, does nothing measurable.
+
+#### Severity: Very High  
+#### Adaptability: Low
+
+This is a physics reality problem; not solvable by optimism.
+
+---
+
+## 4. Operational & Human Constraint Violations
+
+### Constraint G — “Deployment can be done intelligently”
+MDT assumes humans will:
+- place correctly
+- adjust as needed
+- avoid dumb deployment
+
+#### Violation
+- deployed for symbolism, not function
+- placed randomly
+- not aligned with real dust pathways
+- never moved even when obviously wrong
+
+#### Impact
+MTD effectiveness → zero.
+And the failure will be blamed on MDT, not bad deployment.
+
+#### Severity: Medium–High  
+#### Adaptability: Low–Medium
+You can write procedures.
+You cannot force humans to use them.
+
+---
+
+### Constraint H — “Maintenance tolerance exists”
+MDT assumes:
+- occasional inspection
+- occasional replacement or adjustment
+- minimal engagement
+
+#### Violation
+Cultural reality:
+- “low priority items never get serviced”
+- neglected infrastructure becomes normal background clutter
+- no one owns MDT upkeep
+
+#### Impact
+MDT slowly transitions into useless ghost infrastructure.
+
+#### Severity: Medium  
+#### Adaptability: Medium
+Depends heavily on organizational maturity and operational culture.
+
+---
+
+### Constraint I — “Visual and environmental clutter tolerance exists”
+MDT assumes:
+- organizations tolerate visible passive structures
+- infrastructure clutter is acceptable
+
+#### Violation
+Ops culture rejects external clutter or perceives MDT as cosmetic rather than serious infrastructure.
+
+#### Impact
+MDT is removed on preference grounds, not performance grounds.
+
+#### Severity: Medium  
+#### Adaptability: Very Low
+Social culture constraints are rarely negotiable.
+
+---
+
+## 5. Constraint Violation Severity Matrix
+
+| Constraint | Domain | Severity | Adaptability | Notes |
+|----------|--------|---------|-------------|-------|
+Wind coherence fails | Environment | High | Low | hits fundamental exposure logic |
+Airborne dust irrelevant | Physics | High | Low | wrong transport regime kills MDT |
+Storm-dominant dust events | Environment | High | Low–Medium | MDT ≠ storm system |
+Internal choking | Material | Very High | Low–Medium | existential |
+Rapid abrasion | Material | Very High | Medium | solvable but at cost risk |
+Gravity/turbulence insufficient | Physics | Very High | Low | catastrophic |
+Bad deployment practices | Human | Medium–High | Medium | human discipline problem |
+No maintenance culture | Human | Medium | Medium | predictable reality |
+Cultural rejection | Human | Medium | Low | political failure mode |
+
+---
+
+## 6. Phase 2 Takeaway From Constraint Violations
+
+Constraint violation analysis reinforces:
+
+- MDT is **fragile to environmental truth**
+- MDT is **fragile to dust regime reality**
+- MDT is **fragile to abrasion + clogging behavior**
+- MDT is **fragile to human laziness and organizational bias**
+
+MDT is not a “strong across all worlds” system.
+It is a *conditional architecture* whose viability depends on several constraints remaining roughly true.
+
+If two or three major constraints break simultaneously,
+MDT collapses.
+
+---
+
+## Plain-English Summary
+
+MDT relies on:
+- the right kind of wind,
+- the right kind of dust,
+- survivable abrasion timelines,
+- internal behavior that stabilizes instead of collapsing,
+- and humans who don’t treat it like worthless background clutter.
+
+Break enough of those,
+and MDT goes from “plausible helper”
+to “set dressing.”
+
+Phase 2 continues with guarded skepticism.
