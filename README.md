@@ -1,5 +1,8 @@
 # Mars-Dust-# Mars Dust Trap (MDT)
 
+Cross Checked with Grok Passed
+Cross Checked with Qwen Passed
+
 Passive, always-on dust interception for Mars surface operations.  
 A simple fabric windsock-style structure on a pole biases windborne dust toward a small footprint at the base, where dust can slowly accumulate and (optionally) be gently heated into clods instead of staying as free, abrasive dust.
 
