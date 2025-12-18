@@ -1,0 +1,76 @@
+Phase 3 Failure Post-Mortem Template
+
+If Phase 3 fails, failure must be documented cleanly so the organization learns.
+
+Phase 3 Failure Summary
+
+Status: Failed / Terminated
+Date:
+Primary Owner:
+Project:
+
+Plain-English Failure Statement:
+What failed, in one paragraph, without corporate poetry.
+
+Cause Analysis
+Primary Failure Cause
+
+Technical?
+
+Organizational?
+
+Budgetary?
+
+Governance?
+
+Scope drift?
+
+Timeline fantasy?
+
+Contributing Factors
+
+Bullet list, no spin.
+
+What Was Preventable
+
+Be honest. Executives will survive. Ignoring reality costs more.
+
+Impact Assessment
+
+Money burned:
+
+Time lost:
+
+Opportunities displaced:
+
+Secondary program effects:
+
+Accountability
+
+This is not about blame. It’s about truth.
+
+Who owned execution?
+
+Was accountability real or symbolic?
+
+Were governance controls actually used?
+
+What We Learned
+
+Three levels:
+
+Engineering
+
+Program
+
+Executive
+
+Forward Decision
+
+Retry later?
+
+Kill permanently?
+
+Archive lessons only?
+
+If nobody is willing to own the forward decision → default to Kill Permanently.
