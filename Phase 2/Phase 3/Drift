@@ -1,0 +1,39 @@
+Phase 3 Drift
+
+Purpose: Identify how Phase 3 goes wrong when nobody notices it drifting.
+
+Where Phase 3 Drifts in Reality
+
+Re-inventing Phase 1 & 2 instead of executing them
+
+Expanding scope (“while we’re here, what if we also…?”)
+
+Undefined ownership (nobody clearly accountable → slow decay)
+
+Unbounded experimentation masquerading as progress
+
+Paper milestones instead of real milestones
+
+Timeline slippage disguised as “maturity”
+
+Performance claims creep (marketing outruns engineering)
+
+Money burn without decision gates
+
+What Drift Looks Like in Practice
+
+no concrete test article planned
+
+endless meetings, no build commitments
+
+requirements growing rather than converging
+
+new “what if” paths added instead of killed
+
+documentation keeps changing baseline
+
+nobody can answer “when do we stop and build?”
+
+Hard Drift Rule
+Phase 3 exists to prepare execution.
+If effort isn’t converging toward real hardware and real testing, it is drifting.
