@@ -1,0 +1,59 @@
+Phase 3 Execution Checklist
+
+This is the minimum acceptable bar.
+If any box fails, you are not actually “in Phase 3 execution readiness.”
+
+Ownership & Accountability
+
+ A single responsible organization is named
+
+ A single accountable individual is named
+
+ Lines of authority are explicit
+
+ Budget authority is confirmed
+
+Scope Lock
+
+ Phase 0 intent unchanged
+
+ Phase 1 boundaries preserved
+
+ Phase 2 assumptions acknowledged (not re-debated)
+
+ Out-of-scope items explicitly listed
+
+Technical Readiness
+
+ Architecture frozen to versioned baseline
+
+ Success criteria defined in measurable form
+
+ Failure kill criteria defined
+
+ Integration assumptions documented
+
+ Known risks listed without hand-waving
+
+Schedule & Money Reality
+
+ Execution timeline exists
+
+ Budget line exists
+
+ Review cadence defined
+
+ Decision gates defined
+
+ “Stop spending” trigger exists
+
+Legal & License Compliance
+
+ Execution rights cleared
+
+ Non-commercial vs commercial boundaries understood
+
+ Attribution / license obligations acknowledged
+
+If you cannot check every box, you are not ready.
+If you refuse to check every box, you do not want Phase 3 — you want theater.
