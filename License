@@ -1,0 +1,105 @@
+
+---
+
+## `LICENSE.md`
+
+```markdown
+# Mars Dust Trap (MDT)
+Phase 0 / Phase 1 License v1.0
+
+**Short version:**
+- You can read, share, and evaluate this.
+- You cannot build, test, deploy, or use it in funded work without a separate written execution license.
+- If a `/Theory` section exists later, that content is covered by TEL-1.0.
+
+---
+
+## 1. Definitions
+
+“Work” = all Phase 0 & Phase 1 MDT materials.  
+“Author” = original rights holder.  
+“You” = any org, company, government, or individual using the Work.  
+
+**Execution** means:
+- building or testing hardware based on MDT  
+- using MDT in proposals, bids, SBIR/STTR submissions  
+- funded internal development  
+- integration into any product, service, or mission concept  
+
+**Evaluation** means:
+- reading  
+- internal discussion  
+- paper studies & trade analysis  
+- non-funded conceptual exploration  
+
+---
+
+## 2. Rights Granted (Evaluation Only)
+
+You may:
+- access, read, and internally distribute for evaluation  
+- perform internal concept analysis  
+
+You may **not** remove license references.
+
+---
+
+## 3. Execution Requires Separate License
+
+No execution rights are granted here.
+
+Execution is only legal if:
+1) you have a written execution license  
+2) it explicitly authorizes your intended use
+
+Without that:
+- no prototypes  
+- no mission integration  
+- no proposal use  
+- no funded work  
+- no “derivative but clearly based on MDT” execution  
+
+If unsure whether something counts as Execution, assume **it does**.
+
+---
+
+## 4. `/Theory`
+
+If future `/Theory` content exists:
+- governed under TEL-1.0  
+- execution requires TEL execution license  
+
+---
+
+## 5. No Warranty
+
+“As is.” No safety, suitability, compliance, or mission guarantees.
+
+---
+
+## 6. Liability
+
+Author liability = $1 max where legally enforceable.
+
+---
+
+## 7. Derivatives & Attribution
+
+Internal derivatives allowed for evaluation only.  
+Execution still requires license even if modified.
+
+---
+
+## 8. Termination
+
+License auto-terminates if:
+- you execute without permission  
+- you bring IP conflict claims  
+
+---
+
+## 9. Governing Law
+
+Governed by Author’s chosen jurisdiction unless superseded by an execution contract.
+
+End of License.
