@@ -1,0 +1,128 @@
+# Phase 2 — Theoretical Development & Stress Testing
+Mars Dust Trap (MDT)
+
+Phase 2 exists to answer a deeper question than Phase 1:
+
+> If MDT works in principle, does the *idea itself* actually hold up under rigorous thinking?
+
+Phase 2 does not build.
+Phase 2 does not test.
+Phase 2 does not integrate.
+
+Phase 2 is **pure theory**:
+structured reasoning, assumption stress-tests, edge-case exploration, and failure analysis.
+
+If Phase 2 cracks under honest thinking, it should die here,
+even if Phase 1 loved it.
+
+---
+
+## Phase 2 Purpose
+
+Phase 2 determines whether MDT remains credible when subjected to:
+
+- disciplined physical reasoning
+- stress-testing of core assumptions
+- comparison against alternative approaches
+- extreme scenario thinking
+- failure consequence mapping
+- boundary and constraint testing
+
+Phase 2 answers:
+
+> “Even if it works, is MDT still a good idea?”
+
+---
+
+## Phase 2 Rules
+
+Phase 2 is governed by strict constraints:
+
+### 1️⃣ Theory Only
+- No building
+- No testing
+- No labs
+- No field work
+- No mission integration
+
+Theory work only.
+
+---
+
+### 2️⃣ TEL-1.0 License Applies
+Phase 2 content is governed by the **Theory Exploration License**:
+- reading is allowed
+- thinking is allowed
+- execution requires paid / explicit execution license
+- no stealth “use in proposals”
+
+Execution is illegal without license.
+Theory is free.
+
+---
+
+### 3️⃣ Brutal Intellectual Honesty
+Phase 2 is not sales material.
+It must:
+
+- challenge MDT
+- question assumptions
+- identify where it breaks
+- articulate why it might be bad
+
+Phase 2 is where weak ideas get exposed.
+
+---
+
+## What Phase 2 *Is*
+
+Phase 2 includes:
+
+- theoretical performance reasoning
+- assumption stress-tests
+- extreme case failures
+- abuse-case durability thinking
+- deployment constraints and tradeoffs
+- comparative archetype analysis
+- Phase boundary sanity checks
+
+Phase 2 builds confidence **without touching hardware.**
+
+---
+
+## What Phase 2 *Is Not*
+
+Phase 2 is NOT:
+
+- engineering implementation
+- qualification planning
+- manufacturing planning
+- Mars mission design
+- operational doctrine writing
+- procurement prep
+- guarantee phase
+
+If the document sounds like a proposal pitch, it is wrong.
+
+---
+
+## Phase 2 Output Expectation
+
+At the end of Phase 2, we expect:
+
+- a clear articulation of MDT’s theoretical credibility
+- identified limits
+- identified risk surfaces
+- a reasoned conclusion:
+
+> MDT appears theoretically promising **or**
+> MDT is theoretically shallow / fragile and not worth deeper pursuit
+
+This phase is about intellectual honesty, not optimism.
+
+---
+
+## Repository Structure — Phase 2
+
+Phase 2 will include:
+
