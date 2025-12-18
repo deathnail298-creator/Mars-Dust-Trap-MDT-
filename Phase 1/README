@@ -1,0 +1,100 @@
+# Phase 1 — Mars Dust Trap (MDT)
+
+Phase 1 exists to answer a single question:
+
+> Does MDT deserve to exist in hardware?
+
+Phase 1 is **bounded, disciplined testing** intended to:
+- verify basic physical behavior,
+- test survivability of simple prototypes,
+- validate whether “order-percent reduction” is even plausible,
+- and determine if it is worth investing in anything more.
+
+Phase 1 is NOT production.
+Phase 1 is NOT mission integration.
+Phase 1 is NOT a commitment to Mars use.
+
+This is where MDT either earns its place in the world or dies cleanly and honestly.
+
+---
+
+## Phase 1 Philosophy
+
+Phase 1 is governed by three rules:
+
+1. **Reality beats opinion.**  
+   We stop speculating and start observing.
+
+2. **Cheap, controlled, reversible.**  
+   Phase 1 testing must be low-cost, containable, and safe to abandon.
+
+3. **Failure is acceptable; confusion is not.**  
+   Phase 1 may conclude “this is useless.”  
+   What is NOT acceptable is vague, inconclusive testing that tells us nothing.
+
+---
+
+## What Phase 1 *Is*
+
+Phase 1 covers:
+
+- basic physical prototypes,
+- analog environment testing,
+- survivability / abrasion observation,
+- dust interception behavior observation,
+- data gathering sufficient to decide:
+  - “continue,”
+  - “pause,”
+  - or “kill it.”
+
+Testing at this stage is about **principles and plausibility**, not optimization.
+
+---
+
+## What Phase 1 *Is Not*
+
+Phase 1 is NOT:
+
+- flight hardware development,
+- agency qualification,
+- full engineering design,
+- scaling to farms of units,
+- cost optimization work,
+- mission integration planning.
+
+Phase 1 does not need to prove perfection.  
+It only needs to prove MDT isn’t a bad joke.
+
+---
+
+## Execution Boundary Reminder
+
+Phase 1 activities still require an execution license.
+
+Reading/testing separation remains:
+
+- Reading & paper analysis → freely allowed
+- Building, testing, proposals, funded work → requires execution license
+
+See repository license for details.
+
+---
+
+## Phase 1 Deliverables
+
+If Phase 1 is conducted properly, it should generate:
+
+- observed behavior characterization
+- survivability notes
+- abrasion notes
+- whether dust meaningfully settles rather than passes through
+- basic directional evidence about “order-percent plausibility”
+- a clear **Go / No-Go decision**
+
+Not hype. Not slide decks. Reality.
+
+---
+
+## Plain-English Summary
+
+Phase 1 is where MDT stops being a nice idea on paper and proves whether it actually helps in the real world — even a little.
